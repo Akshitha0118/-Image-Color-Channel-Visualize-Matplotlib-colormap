@@ -1,7 +1,7 @@
 streamlit
 numpy
-pandas
-matplotlib
-io
+Pillow
 requests
-PIL
+matplotlib
+
+
